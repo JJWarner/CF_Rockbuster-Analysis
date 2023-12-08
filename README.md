@@ -1,4 +1,4 @@
-## Rockbuster Analysis
+# Rockbuster Analysis
 ---
 Career Foundry project illistrating proficiency in SQL utilizing queries for data analysis and data management.
 
@@ -8,11 +8,11 @@ Career Foundry project illistrating proficiency in SQL utilizing queries for dat
 <b>Contents</b>: 
 <ul>
 
-Scripts: Includes 
+<b>Scripts</b>: Includes 
 
-Data Dictionary:
+<b>Data Dictionary</b>:
 
-Presentation:
+<b>Presentation</b>:
 </ul>
 
 <b>Results</b>: 
