@@ -1,24 +1,26 @@
 # Rockbuster Analysis
 ---
-Career Foundry project illistrating proficiency in SQL utilizing queries for data analysis and data management.
+CareerFoundry Project: Demonstrating Proficiency in SQL for Data Analysis and Management
+This project highlights my expertise in SQL, employing advanced queries for comprehensive data analysis and effective data management. The dataset, sourced from CareerFoundry, revolves around the Rockbuster database.
 
 ---
-<b>Data</b>: Data sourced from 
+<b>Background</b>: Rockbuster Stealth LLC, a global movie rental company facing intense competition from streaming services like Netflix and Amazon Prime, aimed to leverage its existing movie licenses by launching an online video rental service. The objective was to stay competitive in the evolving market landscape.
 
 <b>Contents</b>: 
+
+<b>SQL Scripts</b>: Detailed SQL syntax used in the analysis process, along with an Excel file for convenient access.
+
+<b>Sent to client</b>:
 <ul>
+<li><b>Data Dictionary</b>: A comprehensive data dictionary for the Rockbuster database, showcasing the entity-relationship diagram (ERD), table structures, primary keys, and connections.
+  
+<b>Presentation</b>: Stakeholder presentation featuring visuals and business insights derived from the project analysis.
+</li></ul>
 
-<b>Scripts</b>: Includes 
+<b>Results</b>: Business insights were extracted to guide future growth strategies, highlighting Rockbuster Stealth's potential expansion into the online video streaming market. The project identified the Lifetime Value of Customers (LVC) alongside Rockbuster's top 10 countries for revenue and sales. Inventory analysis was conducted to assist in determining expansion areas with available inventory. Visuals in the stakeholder presentation were crafted using Tableau Public.
 
-<b>Data Dictionary</b>:
+<b>Limitations</b>:The presented data was generated for learning purposes and may not fully represent a complete consumer base, lacking key variables and demographics that could enhance the analysis process.
 
-<b>Presentation</b>:
-</ul>
-
-<b>Results</b>: 
-
-<b>Limitations</b>:
-
-<b>Tools</b>: SQL Syntax,  PostgreSQL.
+<b>Tools</b>: SQL Syntax, PostgreSQL, Tableau Public.
 
 <b>Skills</b>: Data cleaning, data analysis, descriptive statistics, story telling, presentation, data visualization, Data dictionary development.
