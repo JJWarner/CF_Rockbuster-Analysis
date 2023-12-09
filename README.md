@@ -12,9 +12,9 @@ This project highlights my expertise in SQL, employing advanced queries for comp
 
 <b>Sent to client</b>:
 <ul>
-<li><b>Data Dictionary</b>: A comprehensive data dictionary for the Rockbuster database, showcasing the entity-relationship diagram (ERD), table structures, primary keys, and connections.
+<li><b>Data Dictionary</b>: A comprehensive data dictionary for the Rockbuster database, showcasing the entity-relationship diagram (ERD), table structures, primary keys, and connections.</li>
   
-<b>Presentation</b>: Stakeholder presentation featuring visuals and business insights derived from the project analysis.
+<li><b>Presentation</b>: Stakeholder presentation featuring visuals and business insights derived from the project analysis.
 </li></ul>
 
 <b>Results</b>: Business insights were extracted to guide future growth strategies, highlighting Rockbuster Stealth's potential expansion into the online video streaming market. The project identified the Lifetime Value of Customers (LVC) alongside Rockbuster's top 10 countries for revenue and sales. Inventory analysis was conducted to assist in determining expansion areas with available inventory. Visuals in the stakeholder presentation were crafted using Tableau Public.
