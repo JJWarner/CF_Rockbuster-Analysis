@@ -23,4 +23,4 @@ This project highlights my expertise in SQL, employing advanced queries for comp
 
 <b>Tools</b>: SQL Syntax, PostgreSQL, Tableau Public.
 
-<b>Skills</b>: Data cleaning, data analysis, descriptive statistics, story telling, presentation, data visualization, Data dictionary development.
+<b>Skills</b>: Data Cleaning and Analysis, Descriptive Statistics, Joining Tables, Subqueries, Common Table Expressions, Filtering, Database Querying, Storytelling, Presentation, Data Visualization, Data Dictionary Development.
