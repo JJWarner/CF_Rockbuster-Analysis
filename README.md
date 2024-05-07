@@ -4,7 +4,7 @@ CareerFoundry Project: Demonstrating Proficiency in SQL for Data Analysis and Ma
 This project highlights my expertise in SQL, employing advanced queries for comprehensive data analysis and effective data management. The dataset, sourced from CareerFoundry, revolves around the Rockbuster database.
 
 ---
-<b>Background</b>: Rockbuster Stealth LLC, a global movie rental company facing intense competition from streaming services like Netflix and Amazon Prime, aimed to leverage its existing movie licenses by launching an online video rental service. The objective was to stay competitive in the evolving market landscape.
+<b>Background</b>: Rockbuster Stealth LLC, a global movie rental company, facing intense competition from streaming services like Netflix and Amazon Prime, aimed to leverage its existing movie licenses by launching an online video rental service. The primary objective is to  launch an online video rental service, strategically positioning itself to remain competitive in the dynamic market landscape.
 
 <b>Contents</b>: 
 
@@ -23,4 +23,4 @@ This project highlights my expertise in SQL, employing advanced queries for comp
 
 <b>Tools</b>: SQL Syntax, PostgreSQL, Tableau Public.
 
-<b>Skills</b>: Data cleaning, data analysis, descriptive statistics, story telling, presentation, data visualization, Data dictionary development.
+<b>Skills</b>: Data Cleaning and Analysis, Descriptive Statistics, Joining Tables, Subqueries, Common Table Expressions, Filtering, Database Querying, Storytelling, Presentation, Data Visualization, Data Dictionary Development.
